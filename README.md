@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rachelbrouzes
-- 👀 I’m interested in ... HEALTH AND WELLNESS
-- 🌱 I’m currently learning ... HTML, CSS and JAVASCRIPT
-- 💞️ I’m looking to collaborate on ... MY FIRST PROJECT
-- 📫 How to reach me ... r.brouzes@aol.com
+- 👀 I’m interested in ... BIO-HACKING AND YOGA
+- 🌱 I’m currently learning ... ANGULAR
+- 💞️ I’m looking to collaborate on ... YOUR NEXT PROJECT
+- 📫 How to reach me ... brouzes.rachel@gmail.com
 
 <!---
 rachelbrouzes/rachelbrouzes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
